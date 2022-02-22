@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrew-Carlson
 - 👀 I’m interested in data analytics using python, R, and SQL.
 - 🌱 I’m currently learning python and SQL.
-- 💞️ I’m looking to collaborate on data analysis projects in STEM. 
+- 💞️ I’m looking to collaborate on data analysis projects in healthcare. 
 - 📫 I can be reached via email at acarlson2398@gmail.com.
 
 <!---
