@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Andrew Carlson
-- 🧬 I have a B.S. in biochemistry from the University of Central Florida, along with research and teaching experience in chemistry
-- 💻 I am currently enrolled in the UCF Data Analytics and Visualization Certification Program and am seeking data analyst roles upon graduation on November 23rd, 2022
-- 👀 I am interested in data analytics and visualization using python, SQL, R, tableau, and machine learning.
-- 🌱 I am currently learning Python, SQL, Javascript, R, Tableau and other technologies in the UCF Data Analytics and Visualization Certification Program
+- 🧬 I have a B.S. in biochemistry from the University of Central Florida, along with research experience in chemistry, and teaching experience in chemistry and mathematics. 
+- 💻 I have completed the UCF Data Analytics and Visualization Certification Program in November, 2022 and am completing the IBM Data Analyst Professional Certificate.
+- 👀 I am currently seeking employment as a data analyst. I am interested in data analytics, data science, and software engineering.
+- 🌱 I am currently learning Python, SQL, Javascript, HTML5, CSS3, R, Tableau and concepts of software engineering.
 - 📫 I can be reached via email at acarlson2398@gmail.com
-- ⭐ More about me: I play the piano, basketball, and love the outdoors
+- ⭐ More about me: I play classical piano and love the outdoors
 
 <!---
 Andrew-Carlson/Andrew-Carlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
