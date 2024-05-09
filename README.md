@@ -4,7 +4,7 @@
 - 👀 I am interested in data science, ML/DL, MLOps, LLMs, data engineering, and software engineering
 - 🌱 I am currently growing my skills in the forecasting space using machine learning, deep learning, and statistical techniques. I am also learning MLOps and incorporating these skills into my projects.
 - 📫 I can be reached via email at acarlson2398@gmail.com
-- ⭐ More about me: I love music, the outdoors, and reading on my free time
+- ⭐ More about me: I enjoy playing the guitar, being outdoors, and reading on my free time
 
 <!---
 Andrew-Carlson/Andrew-Carlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
