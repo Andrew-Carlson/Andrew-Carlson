@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Andrew Carlson. A data scientist at GXO Logistics, Inc.
+### 👋 Hi, I’m Andrew Carlson. A Data Scientist at GXO Logistics, Inc.
 - 🧬 I have a B.S. in biochemistry from the University of Central Florida, along with research experience in chemistry, and teaching experience in chemistry and mathematics
 - 💻 I have completed the UCF Data Analytics and Visualization Certification Program in November of 2022 and the IBM Data Analyst Professional Certificate in December of 2022
 - 👀 I am interested in data science, ML/DL, MLOps, LLMs, data engineering, and software engineering
